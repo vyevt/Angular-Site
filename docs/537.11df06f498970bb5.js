@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangular_client=self.webpackChunkangular_client||[]).push([[537],{2537:(e,l,n)=>{n.r(l),n.d(l,{StoreModule:()=>o});var t=n(6895),a=n(487),u=n(8256);class o{}o.\u0275fac=function(_){return new(_||o)},o.\u0275mod=u.oAB({type:o}),o.\u0275inj=u.cJS({imports:[t.ez,a.C]})}}]);
